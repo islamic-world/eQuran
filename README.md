@@ -89,3 +89,9 @@ Please ensure your code follows the project's coding standards and includes appr
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to reach out to the project developer, jmrashed@gmail.com, for any questions or issues related to eQuran. Enjoy exploring and reading the Quran with eQuran!
+
+Website: [rasheduzzaman.com](https://rasheduzzaman.com)
+
+Email: jmrashed@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/jmrashed](https://linkedin.com/in/jmrashed)
